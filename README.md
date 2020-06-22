@@ -6,5 +6,5 @@ shows how to use ScalaTest unit tests with Mill.
 
 For more details, see this page:
 
-- [alvinalexander.com/scala/mill-build-tool-hello-world-example-scalatest/](https://alvinalexander.com/scala/mill-build-tool-hello-world-example-scalatest/)
+- [alvinalexander.com/scala/mill-build-tool/intro/](https://alvinalexander.com/scala/mill-build-tool/intro/)
 
